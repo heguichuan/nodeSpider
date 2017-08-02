@@ -1,7 +1,6 @@
 const fs = require('fs')
 const superAgent = require('superagent');
 const EventProxy = require('eventproxy');
-const cheerio = require('cheerio');
 const iconv = require('iconv-lite');
 
 function main() {
